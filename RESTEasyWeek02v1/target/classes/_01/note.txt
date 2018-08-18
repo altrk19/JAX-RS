@@ -1,0 +1,5 @@
+//testleri yaparken çeþitli tool'lar kullanabiliriz. plugin kurabiliriz bunun için. ARC(Advance Request Client)
+	//Chrome üzerinden çalýþtýrabiliriz bunu
+	
+	//veya REST Easy Client tool var
+	//program olarak POSTMAN kurabiliriz       www.getpostman.com
