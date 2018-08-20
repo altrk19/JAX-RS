@@ -1,0 +1,16 @@
+Java objelerinin XML'e dönüþtürülmesi : Marshalling
+XML objelerinin Java dönüþmesi : Unmarshalling
+
+
+XML ve JSON'un temel amacý datayý exchange etmektir. Data'yý taþýmaktýr. Client'a datayý formatlý þekilde nasýl veririm
+
+
+
+
+
+
+
+
+
+
+//SOAP WebServisinin JSON destegi yoktur. Sadece xml ile çalýþýr.
