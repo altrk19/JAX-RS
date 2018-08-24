@@ -1,0 +1,8 @@
+datayý serverdan json ve xml formatýnda aldýk
+test1-console'a string yazma
+test2- json yazma
+test3- xml yazma
+
+
+xml için @XmlRootElement
+@XmlAccessorType(XmlAccessType.FIELD)       moden sýnýfýna yazýldý

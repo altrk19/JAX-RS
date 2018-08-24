@@ -1,0 +1,3 @@
+datayý serverdan string ve json olarak aldýk
+test1-console'a string yazma
+test2-console'a list yazdýrma string formatýnda. json degil. serverdan json veri yapýsý alýnýyor console'a liste yazdýrýlýyor

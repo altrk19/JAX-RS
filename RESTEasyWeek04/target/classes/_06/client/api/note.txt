@@ -1,0 +1,9 @@
+datayý server'a json ve xml formatýnda gönderdik.sunucudan dönen string degerini console üzerinde yazdýrdýk.
+
+
+@Consumes kullanýldý
+addEmployee metodu Consumer olarak JSON kullanmakta , (@Consumes(MediaType.APPLICATION_JSON) )
+Entity.json metodunu kullaniyoruz ve Employee objesini veriyoruz.
+
+xml için @XmlRootElement
+@XmlAccessorType(XmlAccessType.FIELD)       moden sýnýfýna yazýldý
